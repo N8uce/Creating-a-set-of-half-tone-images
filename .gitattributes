@@ -2,5 +2,4 @@
 *.hpp linguist-vendored=false
 *.h linguist-vendored=false
 
-# Makefile не считаем языком проекта
 Makefile linguist-vendored
